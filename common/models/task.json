@@ -13,7 +13,7 @@
     },
     "due": {
       "type": "date",
-      "required": true
+      "required": false
     },
     "done": {
       "type": "boolean",
